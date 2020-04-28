@@ -1,5 +1,7 @@
 # React-Components-Insta-Clone
 
+# Created by RyanMersmann 4/25/2020
+
 ## Composing React Components and Passing Data Via Props
 
 ### **Introduction**
@@ -15,7 +17,7 @@
 This project was put together using create-react-app (CRA). You will not need to install CRA in order to make this project work. Follow the steps below to setup the project with the proper dependencies.
 
 - [ ]  Create a forked copy of this project.
-- [ ]  Add your team lead as collaborator on Github.
+- [ ]  Add your team lead on Github.
 - [ ]  Clone your OWN version of the repository in your terminal
 - [ ]  CD into the project base directory `cd React-Components-Insta-Clone`
 - [ ]  Download project dependencies by running `npm install`
@@ -47,7 +49,7 @@ Your posts should look something like this:
 
 - [ ]  Create more dummy data in the dummy-data.js file and add search functionality to the search bar. One way to do this is with a filter method.
 - [ ]  Implement the ability to comment on a post with the `Add a comment...` input.
-- [ ]  Finish styling all of the application and get your instagram clone to closely resemble the given design spec.
+- [ ]  Finish styling all of the Application and get your Instagram clone to closely resemble the given design spec.
 
 
 
