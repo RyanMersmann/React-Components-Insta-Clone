@@ -1,5 +1,26 @@
 const dummyData = [
     {
+        username: "ryanmersmann",
+        thumbnailUrl: 'https://scontent-den4-1.cdninstagram.com/v/t51.2885-19/s320x320/75419837_850762862007593_4677734528016449536_n.jpg?_nc_ht=scontent-den4-1.cdninstagram.com&_nc_ohc=ucKVtxyA0h8AX8tSzVW&oh=deee15257a423a0cd513277766fec79c&oe=5ED0932E',
+        imageUrl: 'https://images.unsplash.com/photo-1587931392767-b6dca9b3fabe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80',
+        likes: 1000,
+        timestamp: "April 4th 2020, 12:42:40 pm",
+        comments: [
+            {
+                username: "lisahooray",
+                text: "Umm that is precious"
+            },
+            {
+                username: "lmersmann",
+                text: "So Cute!"
+            },
+            {
+                username: "sydneymersmann",
+                text: "I'm dead lol"
+            }
+        ]
+    },
+    {
         username: "philzcoffee",
         thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
         imageUrl: 'https://images.unsplash.com/photo-1477763858572-cda7deaa9bc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1876&q=80',
